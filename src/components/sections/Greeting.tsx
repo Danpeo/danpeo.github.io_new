@@ -11,6 +11,9 @@ export const Greeting = () => {
             {translation.t("home.greeting")}{" "}
             <b className="text-blue-700">{translation.t("general.myName")}</b>
           </h1>
+          <h2 className="text-3xl font-bold text-white text-center">
+            {translation.t("home.aSoftwareEngineer")}
+          </h2>
         </strong>
       </div>
     </>

@@ -1,0 +1,22 @@
+{
+  "projectCards": [
+    {
+      "imageSource": "vite.svg",
+      "title": "NAUTO",
+      "text": "hgee",
+      "buttons": [
+        { "text": "Button 1", "navigation": "/route1" },
+        { "text": "Button 2", "navigation": "/route2" }
+      ]
+    },
+    {
+      "imageSource": "vite.svg",
+      "title": "NAUTO2",
+      "text": "hgee22222",
+      "buttons": [
+        { "text": "Button 3", "navigation": "/route1" },
+        { "text": "Button 4", "navigation": "/route2" }
+      ]
+    }
+  ] 
+}

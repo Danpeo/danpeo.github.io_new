@@ -1,8 +1,18 @@
 {
+  "routes": {
+    "overview": "Overview",
+    "skills": "Skills"
+  },
   "general": {
-    "myName": "Daniel Varov"
+    "myName": "Daniel Varov",
+    "primarySkills": "Primary Skills"
   },
   "home": {
-    "greeting": "Hi, my name is" 
+    "greeting": "Hi, my name is",
+    "aSoftwareEngineer": "I'm a software engineer",
+    "myProjects": "My Projects"
+  },
+  "projects": {
+    "dvarKanjiText": "DVar Kanji is super cool!"
   }
 }

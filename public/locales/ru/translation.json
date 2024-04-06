@@ -1,8 +1,18 @@
 {
+  "routes": {
+    "overview": "Обзор",
+    "skills": "Навыки"
+  },
   "general": {
-    "myName": "Даниил Варов"
+    "myName": "Даниил Варов",
+    "primarySkills": "Основные навыки"
   },
   "home": {
-    "greeting": "Привет, меня зовут"
+    "greeting": "Привет, меня зовут",
+    "aSoftwareEngineer": "я инженер-программист",
+    "myProjects": "Мои проекты"
+  },
+  "projects": {
+    "dvarKanjiText": "DVar Kanji крута!"
   }
 }

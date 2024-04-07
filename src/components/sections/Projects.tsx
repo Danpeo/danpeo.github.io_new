@@ -9,12 +9,13 @@ export const Projects = () => {
   return (
     <>
       <Container>
-        <div className="p-10 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-950 dark:border-gray-800">
+        <div className="p-10 border rounded-lg shadow bg-gray-950 border-gray-800">
           <h2 className="text-3xl font-bold text-blue-500 text-center">
             {t("home.myProjects")}
           </h2>
           <div className="grid grid-cols-4 gap-4 mt-10">
-            {projectCards.map((card, index: number) => (
+            {
+              projectCards.map((card, index: number) => (
               <Card key={index} {...card} />
             ))}
           </div>

@@ -35,6 +35,10 @@ export class SkillsData {
         name: "Python",
         valuePercent: 45,
       },
+      {
+        name: "English",
+        valuePercent: 78,
+      },
     ];
 
     return languages;

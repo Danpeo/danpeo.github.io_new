@@ -7,48 +7,59 @@ export class ProjectsData {
 
     const projectCards: CardProps[] = [
       {
-        imageSource: "img/Screenshot_5.png",
+        imageSource: "img/dvarkanji.png",
         title: "DVar Kanji",
         text: t("projects.dvarKanjiText"),
         buttons: [
-          { text: "Button 1", navigation: "/route1" },
-          { text: "Button 2", navigation: "/route2" },
+          {
+            text: "Github Code",
+            navigation: "https://github.com/Danpeo/DanilvarKanji",
+          },
+        ],
+      },
+      {
+        imageSource: "img/nihongoquest.jpeg",
+        title: "NIHONGO КВЕСТ",
+        text: t("projects.nihongoQuest"),
+        buttons: [
+          {
+            text: "Yandex Games",
+            navigation:
+              "https://yandex.ru/games/developer?name=Varov%27s%20Games#app=236654",
+          },
         ],
       },
       {
         imageSource: "img/Screenshot_5.png",
-        title: "DVar Kanji",
-        text: t("projects.dvarKanjiText"),
+        title: "DVarScript",
+        text: t("projects.dvarScript"),
         buttons: [
-          { text: "Button 1", navigation: "/route1" },
-          { text: "Button 2", navigation: "/route2" },
+          {
+            text: "Gihub Code",
+            navigation: "https://github.com/Danpeo/DVarScript",
+          },
         ],
       },
       {
-        imageSource: "img/Screenshot_5.png",
-        title: "DVar Kanji",
-        text: t("projects.dvarKanjiText"),
+        imageSource: "img/dict.png",
+        title: "English Dictionary",
+        text: "English Dictionary",
         buttons: [
-          { text: "Button 1", navigation: "/route1" },
-          { text: "Button 2", navigation: "/route2" },
+          {
+            text: "GO",
+            navigation: "https://danpeo.github.io/dvar-dictionary/",
+          },
         ],
       },
       {
-        imageSource: "img/Screenshot_5.png",
-        title: "DVar Kanji",
-        text: t("projects.dvarKanjiText"),
+        imageSource: "img/textExtractor.png",
+        title: "Text Extractor",
+        text: t("projects.textExtractor"),
         buttons: [
-          { text: "Button 1", navigation: "/route1" },
-          { text: "Button 2", navigation: "/route2" },
-        ],
-      },
-      {
-        imageSource: "img/Screenshot_5.png",
-        title: "DVar Kanji",
-        text: t("projects.dvarKanjiText"),
-        buttons: [
-          { text: "Button 1", navigation: "/route1" },
-          { text: "Button 2", navigation: "/route2" },
+          {
+            text: "Github Code",
+            navigation: "https://github.com/Danpeo/DVar.TextExtractor",
+          },
         ],
       },
     ];

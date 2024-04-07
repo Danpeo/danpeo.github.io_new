@@ -1,0 +1,46 @@
+{
+  "routes": {
+    "overview": "Overview",
+    "skills": "Skills",
+    "about": "About Me",
+    "contact": "Contact Me"
+  },
+  "general": {
+    "myName": "Daniel Varov",
+    "shortName": "Varov D.Y.",
+    "primarySkills": "Primary Skills"
+  },
+  "home": {
+    "greeting": "Hi, my name is",
+    "aSoftwareEngineer": "I'm a software engineer",
+    "myProjects": "My Projects"
+  },
+  "skills": {
+    "languages": "Languages",
+    "frameworks": "Frameworks/Libraries",
+    "concepts": "Concepts",
+    "technologies": "Technologies"
+  },
+  "projects": {
+    "dvarKanjiText": "DVar Kanji is a system for studying Japanese hieroglyphs",
+    "nihongoQuest": "Visual novel for learning Japanese language",
+    "dvarScript": "DVarScript is an interpreted dynamically typed programming language. The interpreter is written in C#",
+    "textExtractor": "Desktop app for extracting text from images"
+  },
+  "educations": {
+    "istu": "Kalashnikov Izhevsk State Technical University",
+    "bachelor": "Bachelor",
+    "computerScienceSpecialization": "09.03.01 \"Computer Science and Engineering\""
+  },
+  "about": {
+    "yearsOld": "years old",
+    "votkinsk": "Votkinsk",
+    "russia": "Russia",
+    "aboutMe": "I am an software engineer deeply passionate about the world of technology and programming. My drive to enhance user experience and find innovative solutions to real-world problems is a cornerstone of my professional approach. My goal is to create products capable of transforming the world and making it more accessible and convenient for all users.",
+    "aboutMeSection": "About Me",
+    "education": "Education"
+  },
+  "contact": {
+    "phoneNumber": "Phone Number"
+  }
+}

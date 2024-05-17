@@ -25,7 +25,8 @@
     "dvarKanjiText": "DVar Kanji is a system for studying Japanese hieroglyphs",
     "nihongoQuest": "Visual novel for learning Japanese language",
     "dvarScript": "DVarScript is an interpreted dynamically typed programming language. The interpreter is written in C#",
-    "textExtractor": "Desktop app for extracting text from images"
+    "textExtractor": "Desktop app for extracting text from images",
+    "dvarFlash": "Simple flashcard app"
   },
   "educations": {
     "istu": "Kalashnikov Izhevsk State Technical University",

@@ -41,6 +41,17 @@ export class ProjectsData {
         ],
       },
       {
+        imageSource: "img/dvar-flash.png",
+        title: "DVar Flash",
+        text: t("projects.dvarFlash"),
+        buttons: [
+          {
+            text: "GO",
+            navigation: "https://danpeo.github.io/dvar-dictionary/",
+          },
+        ],
+      },
+      {
         imageSource: "img/dict.png",
         title: "English Dictionary",
         text: "English Dictionary",

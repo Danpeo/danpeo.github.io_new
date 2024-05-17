@@ -20,7 +20,7 @@ function App() {
   return (
     <Suspense fallback="...loading">
       <div className="App">
-        <BrowserRouter>
+        <BrowserRouter basename={import.meta.env.BASE_URL}>
           <Navbar title={t("general.shortName")} links={links} />
           <ScrollToTopButton />
           <Routes>
